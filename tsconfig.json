@@ -60,8 +60,7 @@
     "baseUrl": ".",
     "paths": {
       "@controllers/*": ["./src/controllers/*"],
-      "@models/*": ["./src/controllers/*"],
-      "@views/*": ["./src/controllers/*"]
+      "@models/*": ["./src/models/*"]
     }
   }
 }
